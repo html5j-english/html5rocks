@@ -1,0 +1,3 @@
+[submodule "www.html5rocks.com"]
+	path = www.html5rocks.com
+	url = git@github.com:html5j-english/www.html5rocks.com.git
